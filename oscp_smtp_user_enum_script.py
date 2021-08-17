@@ -1,4 +1,13 @@
 #!/usr/bin/python
+#######################################
+# my Twitter 
+# my LinkedIn
+
+# This is Simple Python Script To Make User Enumeration
+# On SMTP Service By Using One of Two Commands
+# <VRFY> Command or <RCPT TO> Command
+# Usage : python script.py 192.168.1.1 users_list.txt
+#######################################
 import socket
 import time
 import sys
@@ -111,7 +120,7 @@ def chk(host,port):
 	return command
 
 if len(sys.argv) < 2:
-	print "Useg : %s <host> <users-list> <port-default(25)>" % (sys.argv[0])
+	print "Usage : %s <host> <users-list> <port-default(25)>" % (sys.argv[0])
 elif len(sys.argv) == 3:
 	host=sys.argv[1]
 	users=sys.argv[2]
