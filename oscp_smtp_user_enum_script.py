@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #######################################
-# my Twitter 
-# my LinkedIn
+# my Twitter @H0Oka_95
+# my LinkedIn https://www.linkedin.com/in/mahmoud-mahfouz-29b80a1b1/
 
 # This is Simple Python Script To Make User Enumeration
 # On SMTP Service By Using One of Two Commands
