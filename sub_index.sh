@@ -4,11 +4,11 @@
 # My LinkedIn https://www.linkedin.com/in/mahmoud-mahfouz-29b80a1b1/
 # special thanks to @Limbo0x01
 
-# sub_finder is a simple bash script
+# sub_index is a simple bash script
 # used to gather the sub-domains
 # from the target main website page
 
-# usage : ./sub_finder.sh domain.com
+# usage : ./sub_index.sh domain.com
 ############################
 if [ $# != 1 ]
 then
