@@ -30,6 +30,6 @@ then echo "[+]" $x " >> " $(host -t A $x | grep "has address" | cut -d ' ' -f 4)
 fi
 done
 rm $file1 sub.txt tmp.txt
-echo "[*]
+echo "[*]"
 echo "[*] Done"
 ############################
