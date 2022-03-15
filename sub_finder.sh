@@ -1,6 +1,6 @@
 #!/bin/bash
 ############################
-# My Twitter @H0Oka_95
+# My Twitter @MahmoudZ0x1
 # My LinkedIn https://www.linkedin.com/in/mahmoud-mahfouz-29b80a1b1/
 # special thanks to @Limbo0x01
 
