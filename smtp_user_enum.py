@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #######################################
-# my Twitter @H0Oka_95
+# my Twitter @MahmoudZ0x1
 # my LinkedIn https://www.linkedin.com/in/mahmoud-mahfouz-29b80a1b1/
 
 # This is Simple Python Script To Make User Enumeration
